@@ -1,0 +1,151 @@
+query,category
+"my bill is missing",billing
+"can't see the payment history",billing
+"payment is not showing",billing
+"invoice not generated",billing
+"charges on my account don't match",billing
+"why was I charged late fees?",billing
+"refund not processed",billing
+"overcharged on my bill",billing
+"how to pay my bill",billing
+"how can I get a copy of my bill?",billing
+"my payment was declined",billing
+"cannot access my bill",billing
+"what is my balance?",billing
+"when is the bill due?",billing
+"billing error",billing
+"how do I cancel a payment?",billing
+"can I split my bill?",billing
+"how do I change my billing address?",billing
+"how to apply a payment discount?",billing
+"credit card payment not showing",billing
+"my payment hasn't gone through",billing
+"why are there extra charges?",billing
+"payment history is missing",billing
+"incorrect billing statement",billing
+"my payment method was declined",billing
+"late payment fees",billing
+"forgot my password",account
+"need to update my email",account
+"how do I change my account info?",account
+"can't access my account",account
+"how to reset password",account
+"locked out of my account",account
+"how to recover my account",account
+"my account is deactivated",account
+"how to delete my account",account
+"change email address for account",account
+"how do I update my security settings?",account
+"account verification failed",account
+"what is my username?",account
+"can't sign in",account
+"how do I close my account?",account
+"account settings",account
+"how do I link another device?",account
+"can't find my account details",account
+"account password change",account
+"how do I add another user?",account
+"forgot my username",account
+"how do I change my account password?",account
+"account privacy settings",account
+"how do I update my payment method?",account
+"how to get a new password?",account
+"my email is incorrect",account
+"return my order",orders_returns
+"item arrived damaged",orders_returns
+"my order is incomplete",orders_returns
+"order was not delivered",orders_returns
+"how do I cancel my order?",orders_returns
+"return process not working",orders_returns
+"received the wrong item",orders_returns
+"can I get an exchange?",orders_returns
+"how to initiate a return?",orders_returns
+"order item not as described",orders_returns
+"how to track my return?",orders_returns
+"refund request not processed",orders_returns
+"returning items after the deadline",orders_returns
+"can I return an opened item?",orders_returns
+"exchange a faulty item",orders_returns
+"where is my return?",orders_returns
+"wrong item sent",orders_returns
+"how do I request a replacement?",orders_returns
+"can I return an online order in-store?",orders_returns
+"my order status is pending",orders_returns
+"how to file a complaint about an order?",orders_returns
+"my order hasn't shipped yet",orders_returns
+"how to return an item internationally?",orders_returns
+"I want to change my return reason",orders_returns
+"delayed order delivery",orders_returns
+"order was not processed correctly",orders_returns
+"return shipping label not received",orders_returns
+"where's my order?",delivery
+"delivery is delayed",delivery
+"how do I track my package?",delivery
+"delivery not attempted",delivery
+"when will my package arrive?",delivery
+"no delivery updates",delivery
+"tracking number not working",delivery
+"package was marked delivered but I didn't get it",delivery
+"can I change my delivery address?",delivery
+"delivery times are incorrect",delivery
+"missing package",delivery
+"where is my package?",delivery
+"how to reschedule delivery?",delivery
+"what's my delivery window?",delivery
+"can I request faster delivery?",delivery
+"my delivery was rescheduled",delivery
+"package lost during shipping",delivery
+"failed delivery attempt",delivery
+"my order was sent to the wrong address",delivery
+"how do I contact delivery support?",delivery
+"change shipping address after dispatch",delivery
+"how to cancel a shipment?",delivery
+"my package is stuck in transit",delivery
+"late delivery",delivery
+"can I pick up my order instead?",delivery
+"how to track international shipping?",delivery
+"how to file a delivery complaint?",delivery
+"package was damaged during shipping",delivery
+"where's my international package?",delivery
+"can I change the delivery date?",delivery
+"why isn't my tracking number updating?",delivery
+"package is delayed in customs",delivery
+"delivery was attempted but I missed it",delivery
+"how to contact delivery service?",delivery
+"can't find tracking updates",delivery
+"delivery team has no updates",delivery
+"system is down",technical
+"website is not working",technical
+"can't access the app",technical
+"server error",technical
+"technical support is unavailable",technical
+"need help with my software",technical
+"app crashing",technical
+"website loading issues",technical
+"can't upload files",technical
+"can't login to the app",technical
+"page not found",technical
+"system freeze",technical
+"application is slow",technical
+"how to fix connection issues",technical
+"software not responding",technical
+"need technical assistance",technical
+"can't install the app",technical
+"website keeps crashing",technical
+"app updates not working",technical
+"can't reset app",technical
+"server down for maintenance",technical
+"database connection error",technical
+"system rebooting",technical
+"unable to connect to internet",technical
+"how do I resolve error 404?",technical
+"page not loading",technical
+"issues with cloud storage",technical
+"app permissions error",technical
+"system restart required",technical
+"software update issue",technical
+"need help with system configuration",technical
+"network issues",technical
+"app security breach",technical
+"can't access cloud data",technical
+"error message on screen",technical
